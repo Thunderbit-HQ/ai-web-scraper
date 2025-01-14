@@ -13,7 +13,8 @@ Thunderbit AI 是一款下一代人工智能驱动的网页抓取工具，让企
   </a>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGxafVHvD1Q?si=f66rmvbkMXWTBJJZ" title="YouTube视频播放器" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Thunderbit AI Web Scraper Demo](https://img.youtube.com/vi/KGxafVHvD1Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=KGxafVHvD1Q "Thunderbit AI Web Scraper Demo")
+
 
 Thunderbit AI 网页抓取工具是最易用的AI驱动网页抓取器，只需点击两下即可从网站、PDF、图片等源提取数据。无需编程知识！
 

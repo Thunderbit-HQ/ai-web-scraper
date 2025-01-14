@@ -13,7 +13,8 @@ Un extractor web de próxima generación, impulsado por IA, que permite a empres
   </a>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGxafVHvD1Q?si=f66rmvbkMXWTBJJZ" title="Reproductor de video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Thunderbit AI Web Scraper Demo](https://img.youtube.com/vi/KGxafVHvD1Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=KGxafVHvD1Q "Thunderbit AI Web Scraper Demo")
+
 
 Thunderbit AI Web Scraper es el extractor web más fácil de usar, impulsado por IA, que te permite extraer datos de sitios web, PDFs, imágenes y más con solo 2 clics. ¡No requiere programación!
 

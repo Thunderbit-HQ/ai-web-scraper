@@ -13,7 +13,8 @@
   </a>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGxafVHvD1Q?si=f66rmvbkMXWTBJJZ" title="YouTube動画プレーヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Thunderbit AI Web Scraper Demo](https://img.youtube.com/vi/KGxafVHvD1Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=KGxafVHvD1Q "Thunderbit AI Web Scraper Demo")
+
 
 Thunderbit AI ウェブスクレイパーは、最も使いやすいAI搭載ウェブスクレイパーで、ウェブサイト、PDF、画像などからわずか2クリックでデータを抽出できます。プログラミング不要！
 

@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGxafVHvD1Q?si=f66rmvbkMXWTBJJZ" title="YouTube 동영상 플레이어" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Thunderbit AI Web Scraper Demo](https://img.youtube.com/vi/KGxafVHvD1Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=KGxafVHvD1Q "Thunderbit AI Web Scraper Demo")
 
 Thunderbit AI 웹 스크레이퍼는 가장 사용하기 쉬운 AI 기반 웹 스크레이퍼로, 웹사이트, PDF, 이미지 등에서 단 2번의 클릭으로 데이터를 추출할 수 있습니다. 코딩이 필요 없습니다!
 

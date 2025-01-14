@@ -8,12 +8,13 @@ A next-gen, AI-powered web scraper that enables businesses and individuals to ex
   <a href="https://chromewebstore.google.com/detail/thunderbit-ai-web-scraper/hbkblmodhbmcakopmmfbaopfckopccgp">
     <img src="https://img.shields.io/chrome-web-store/rating/pdeldjlcnhallaapdggcmhpailpnnkmg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4" alt="Chrome Web Store Rating"/>
   </a>
+  
   <a href="https://chromewebstore.google.com/detail/thunderbit-ai-web-scraper/hbkblmodhbmcakopmmfbaopfckopccgp">
     <img src="https://img.shields.io/badge/active%20users-10%2C000%2B-success?style=for-the-badge&logo=users&logoColor=white&labelColor=2ECC71&color=2ECC71" alt="Active Users"/>
   </a>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGxafVHvD1Q?si=f66rmvbkMXWTBJJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Thunderbit AI Web Scraper Demo](https://img.youtube.com/vi/KGxafVHvD1Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=KGxafVHvD1Q "Thunderbit AI Web Scraper Demo")
 
 Thunderbit AI Web Scraper is the easiest-to-use web scraper, powered by AI, that allows you to extract data from websites, PDFs, images, and more in just 2 clicks. No coding required!
 
@@ -116,7 +117,6 @@ Thunderbit AI Web Scraper is the easiest-to-use web scraper, powered by AI, that
 
 
 
-
 Revolutionize your data collection process with Thunderbit AI Web Scraper—your ultimate tool for fast, efficient, and accurate data extraction.
 
 ## 💬 What Users Say About Thunderbit
@@ -124,14 +124,10 @@ Revolutionize your data collection process with Thunderbit AI Web Scraper—your
 > *Jan 12, 2025*  
 > "Superb extension, works like a charm!"
 
----
-
 > **Stevie Dean** ⭐️⭐️⭐️⭐️⭐️  
 > *Nov 24, 2024*  
 > "Works perfectly, thanks for making this!"  
 > *2 out of 2 found this helpful*
-
----
 
 > **Madars Bišs** ⭐️⭐️⭐️⭐️⭐️  
 > *Nov 24, 2024*  
@@ -174,6 +170,6 @@ Explore practical use cases and success stories from our users:
 ---
 <a href="https://www.futurepedia.io/tool/thunderbit?utm_source=thunderbit_embed" style="width: 250px; height: 54px;" width="250" height="54">
         <img src="https://www.futurepedia.io/api/image-widget?toolId=2032a341-d23d-4c28-b00b-b6efa679baeb" alt="Thunderbit | Featured on Futurepedia" style="width: 250px; height: 54px;" width="250" height="54">
-        </a><a href="https://www.producthunt.com/posts/thunderbit?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-thunderbit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=487899&theme=light&period=weekly&t=1736844158857" alt="Thunderbit - Personalized&#0032;web&#0032;AI&#0032;copilot | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+        </a> <a href="https://www.producthunt.com/posts/thunderbit?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-thunderbit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=487899&theme=light&period=weekly&t=1736844158857" alt="Thunderbit - Personalized&#0032;web&#0032;AI&#0032;copilot | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 © 2025 Thunderbit Inc. All rights reserved.
